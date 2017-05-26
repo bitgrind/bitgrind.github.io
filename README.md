@@ -1,7 +1,8 @@
 # Keith Stedman Portfolio github.IO
 
 
-####Cover Letter
+#### Cover Letter
+
 Keith Stedman
 5.25.17
 Epicodus
